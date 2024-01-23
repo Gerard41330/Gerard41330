@@ -10,8 +10,8 @@
 <img src="https://github.com/Gerard41330/Stephane-GERARD/blob/main/icons8-php-48.png">
 <img src="https://github.com/Gerard41330/Stephane-GERARD/blob/main/icons8-mysql-48.png">
 <img src="https://github.com/Gerard41330/Stephane-GERARD/blob/main/icons8-toupet-48.png">
-<img src="https://github.com/Gerard41330/Stephane-GERARD/blob/main/icons8-tailwindcss-48.png">
-<img src="https://github.com/Gerard41330/Stephane-GERARD/blob/main/icons8-symphony-48.png">
+<img src="https://github.com/Gerard41330/Stephane-GERARD/blob/main/icons8-tailwind-css-48.png">
+<img src="https://github.com/Gerard41330/Stephane-GERARD/blob/main/icons8-symfony-48.png">
 <img src="https://github.com/Gerard41330/Stephane-GERARD/blob/main/icons8-bootstrap-48.png">
 <img src="https://github.com/Gerard41330/Stephane-GERARD/blob/main/icons8-npm-48.png">
 <img src="https://github.com/Gerard41330/Stephane-GERARD/blob/main/icons8-wordpress-48.png">
