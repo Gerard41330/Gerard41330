@@ -1,5 +1,8 @@
 # <span style="color:blue; font-family:verdana;">bonjour je suis Stéphane GERARD</span>
 <img src="https://github.com/Gerard41330/Stephane-GERARD/blob/main/Developpeur-full-stack.png">
+
+
+## Mes compétences en langage 
 - 👋 Hi, I’m @Gerard41330
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
