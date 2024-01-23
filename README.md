@@ -2,7 +2,7 @@
 <img src="https://github.com/Gerard41330/Stephane-GERARD/blob/main/Developpeur-full-stack.png">
 <br>
 <br>
-<br>
+
 ## À propos de moi
 <br>
 <p>🚀 Passionné de développement web en reconversion, je combine une formation autodidacte approfondie avec une expertise croissante dans les technologies SaaS.
@@ -20,9 +20,12 @@
 🌟 Convaincu que cette reconversion professionnelle est une étape cruciale de ma vie, je suis impatient de contribuer activement au monde du développement web et d'explorer les opportunités stimulantes qui se présentent sur ce chemin.</p>
 <br>
 <br>
+
 ## Compétences 
 <img src="https://github.com/Gerard41330/Stephane-GERARD/blob/main/icons8-html5-48.png" style="margin-right: 30px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Gerard41330/Stephane-GERARD/blob/main/icons8-css3-48.png" style="margin-right: 30px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Gerard41330/Stephane-GERARD/blob/main/icons8-js-48.png" style="margin-right: 30px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Gerard41330/Stephane-GERARD/blob/main/icons8-jquery-48.png" style="margin-right: 30px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Gerard41330/Stephane-GERARD/blob/main/icons8-php-48.png" style="margin-right: 30px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Gerard41330/Stephane-GERARD/blob/main/icons8-mysql-48.png" style="margin-right: 30px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Gerard41330/Stephane-GERARD/blob/main/icons8-toupet-48.png" style="margin-right: 30px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Gerard41330/Stephane-GERARD/blob/main/icons8-tailwind-css-48.png" style="margin-right: 30px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Gerard41330/Stephane-GERARD/blob/main/icons8-symfony-48 (1).png" style="margin-right: 30px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Gerard41330/Stephane-GERARD/blob/main/icons8-bootstrap-48.png" style="margin-right: 30px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Gerard41330/Stephane-GERARD/blob/main/icons8-npm-48.png" style="margin-right: 30px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Gerard41330/Stephane-GERARD/blob/main/icons8-wordpress-48.png" style="margin-right: 30px;">
-
+<br>
+<br>
+ 
 ## Projet
 
 - 👋 Hi, I’m @Gerard41330
