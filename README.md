@@ -5,22 +5,21 @@
 
 ## À propos de moi
 <br>
-<p>🚀 Passionné de développement web en reconversion, je combine une formation autodidacte approfondie avec une expertise croissante dans les technologies SaaS.
+🚀 Développeur web full-stack en pleine reconversion, je suis prêt à mettre mes compétences en pratique dans un environnement professionnel. Ma formation autodidacte m'a permis de maîtriser les technologies SaaS et de développer une expertise croissante.
 <br>
 <br>
-💡 Au cœur de mon parcours, je suis constamment immergé dans un voyage d'apprentissage, cherchant à affiner mes compétences et à élargir ma compréhension du domaine. En tant que professionnel du développement web et des technologies SaaS, je maitrise plusieurs langages et frameworks tels que HTML5, CSS3, JavaScript, PHP, MySQL, SaaS, Bootstrap, TailwindCSS, Symfony6 et WordPress.
+💡 Je suis constamment en quête d'apprentissage, cherchant à perfectionner mes compétences en HTML5, CSS3, JavaScript, PHP, MySQL, SaaS, Bootstrap, TailwindCSS, Symfony6 et WordPress. Mon objectif est de créer des solutions numériques efficaces et conviviales qui répondent aux besoins spécifiques de chaque client.
 <br>
 <br>
-🌐 Mon objectif est de créer des solutions numériques efficaces et conviviales qui répondent aux besoins spécifiques de chaque client. Je suis passionné par la résolution de problèmes et je porte une attention particulière aux détails, dépassant les attentes à chaque projet.
+🌐 Enthousiaste à l'idée de résoudre des problèmes, je porte une attention particulière aux détails et vise à dépasser les attentes à chaque projet. Je suis déterminé à fournir un travail de qualité tout en maintenant une communication ouverte et transparente.
 <br>
 <br>
-💼 Je m'engage à fournir un travail de qualité tout en maintenant une communication ouverte et transparente tout au long du processus de développement. En tant que personne reconnue travailleur handicapé (RQTH), je considère la diversité comme une force et je suis déterminé à surpasser les défis pour réussir dans ma nouvelle carrière.
+💼 En tant que personne reconnue travailleur handicapé (RQTH), je considère la diversité comme une force et je suis prêt à surmonter les défis pour réussir dans ma nouvelle carrière. Je suis impatient de contribuer activement au monde du développement web.
 <br>
 <br>
-🌟 Convaincu que cette reconversion professionnelle est une étape cruciale de ma vie, je suis impatient de contribuer activement au monde du développement web et d'explorer les opportunités stimulantes qui se présentent sur ce chemin.</p>
+🌟 Je suis actuellement à la recherche d'opportunités stimulantes pour mettre en pratique mes compétences et mon savoir-faire. Si vous êtes à la recherche d'un développeur web déterminé et passionné, n'hésitez pas à me contacter. Je suis convaincu que je pourrais être un atout pour votre équipe.
 <br>
 <br>
-
 ## Compétences
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;Front-end:
