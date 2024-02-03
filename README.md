@@ -20,6 +20,7 @@
 🌟 Je suis actuellement à la recherche d'opportunités stimulantes pour mettre en pratique mes compétences et mon savoir-faire. Si vous êtes à la recherche d'un développeur web déterminé et passionné, n'hésitez pas à me contacter. Je suis convaincu que je pourrais être un atout pour votre équipe.
 <br>
 <br>
+
 ## Compétences
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;Front-end:
