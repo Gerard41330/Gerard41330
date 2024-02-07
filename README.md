@@ -48,13 +48,13 @@
  
 ## Projet
 
-- 👋 Hi, I’m @Gerard41330
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Salut, je m'appelle @Gerard41330
+- 👀 Je suis intéressé par le développement informatique, les projets à faire en résolvant les problèmes poser 
+- 🌱 J'apprends actuellement symphonie 6, tailwindcss, PHP POO,
+- 💞️ Je cherche à collaborer sur des projets personnel et collectif 
+- 📫 Comment me joindre sur mon LinkedIn ou mon Facebook
+- 😄 Pronoms : je n'en ai pas 
+- ⚡ Fait amusant : pas pour le moment
 
 <!---
 Gerard41330/Gerard41330 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
