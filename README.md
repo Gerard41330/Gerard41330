@@ -39,7 +39,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Gerard41330/Stephane-GERARD/blob/main/icons8-mysql-48.png" style="margin-right: 30px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### autre:
-<img src="https://github.com/Gerard41330/Stephane-GERARD/blob/main/icons8-npm-48.png" style="margin-right: 30px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Gerard41330/Stephane-GERARD/blob/main/icons8-npm-48.png" style="margin-right: 30px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### CMS:
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Gerard41330/Stephane-GERARD/blob/main/icons8-wordpress-48.png" style="margin-right: 30px;">
